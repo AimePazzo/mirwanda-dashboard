@@ -8,7 +8,7 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "antd": "^5.0.6",
+    "antd": "^5.17.0",
     "axios": "^1.2.1",
     "formik": "^2.2.9",
     "react": "^18.2.0",
@@ -23,7 +23,6 @@
     "react-select": "^5.7.0",
     "react-toastify": "^9.1.1",
     "react-widgets": "^5.8.4",
-    "update": "^0.7.4",
     "web-vitals": "^2.1.4",
     "yup": "^0.32.11"
   },
